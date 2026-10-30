@@ -1,0 +1,7 @@
+{
+  "standard_negative_prompts": {
+    "anatomical_distortions": "extra limbs, deformed fingers, mutated hands, poorly drawn face, asymmetrical eyes, missing fingers, floating limbs",
+    "cultural_brand_safety_mena": "inappropriate clothing, culturally inaccurate traditional attire, nonsensical pseudo-Arabic calligraphy, offensive religious symbols, distorted flags",
+    "render_artifacts": "blurry, low resolution, JPEG artifacts, watermark, logo stamps, signature, oversaturated, chromatic aberration"
+  }
+}
